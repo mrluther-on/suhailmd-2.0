@@ -73,8 +73,8 @@ module.exports = {
   VERSION : process.env.VERSION || "1.0.1-developement-x",
   caption : global.caption || "𝙎𝙐𝘽𝘼𝙍𝙐 𝙄𝙎 𝙔𝙊𝙐𝙍 𝙇𝘼𝙎𝙏 𝙊𝙋𝙏𝙄𝙊𝙉" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
-  author : process.env.PACK_AUTHER|| "૮₍ ˃ ⤙ ˂ ₎ა ",
-  packname: process.env.PACK_NAME || "🎋💔𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈'𝐌  ＳＵＢＡＲＵ🌷(๑˃𝐀𝐒𝐈𝐀'𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂™ 🕊+919614477116_ (ｉｎｓｔａ - lexx_lutheer_) 𝙎𝙐𝘽𝘼𝙍𝙐 𝙄𝙎 𝙔𝙊𝙐𝙍 𝙇𝘼𝙎𝙏 𝙊𝙋𝙏𝙄𝙊𝙉ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+  author : process.env.PACK_AUTHER|| "🕊+919614477116_ (ｉｎｓｔａ - lexx_lutheer_)",
+  packname: process.env.PACK_NAME || "🎋💔𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈'𝐌  ＳＵＢＡＲＵ🌷(๑˃𝐀𝐒𝐈𝐀'𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🍂ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
   botname : process.env.BOT_NAME  || "ㅤ📮 ___ＥＭＩＬＩＡ ___ 💌",
   ownername:process.env.OWNER_NAME|| "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🔰ＳＵＢＡＲＵ💌",
 
